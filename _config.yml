@@ -102,15 +102,17 @@ defaults:
         resize_style: cover
 
 # -----------
-# Bistream
+# CloudCannon
 
 social_icons:
   - Facebook
   - Google Plus
   - Instagram
   - LinkedIn
+  - Pinterest
   - Tumblr
   - Twitter
+  - YouTube
   - Email
   - RSS
 
