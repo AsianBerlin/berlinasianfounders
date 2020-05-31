@@ -1,24 +1,25 @@
 # ----
 # Site
 
-title: Frisco Template
-url: "https://brave-submarine.cloudvent.net"
-baseurl:
+title: 世界ペンパル by Okaeri house
+url: "https://shenchingtou.github.io/sekai-penpal"
+baseurl: ""
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
+description: 日本に友達を作ろう。日本語で手紙をもらって、自分も日本語を手で書いて。
 author:
-  name:
+  name: おかえりハウス @bistream GmbH 
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: Bistream
   links:
     - https://github.com/CloudCannon/frisco-jekyll-template
+
 
 # -----
 # Build
@@ -102,17 +103,13 @@ defaults:
         resize_style: cover
 
 # -----------
-# CloudCannon
+# BiStream
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
-  - YouTube
   - Email
   - RSS
 
