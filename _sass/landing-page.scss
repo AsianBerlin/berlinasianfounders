@@ -7,6 +7,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
+	filter: brightness(90%);
 
 	&:before {
 		content: "";
@@ -31,9 +32,11 @@
 	.hero-text-container {
 		width: 600px;
 		text-align: left;
+		color: #ff8c00;
 
 		h1, h2, p, .button {
 			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+			color: #ff8c00;
 		}
 	}
 
