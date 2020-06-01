@@ -1,4 +1,5 @@
-# ----
+# Site built for BiStream by Athena Lam https://github.com/shenchingtou 
+
 # Site
 
 title: 世界ペンパル by Okaeri house
@@ -102,7 +103,7 @@ defaults:
         resize_style: cover
 
 # -----------
-# CloudCannon
+# BiStream
 
 social_icons:
   - Facebook
